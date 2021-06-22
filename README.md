@@ -1,1 +1,1 @@
-# FlipKart-Monitors-Web-Scraping-
+# FlipKart: Monitors Web Scraping Project (Self)
